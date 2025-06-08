@@ -17,7 +17,6 @@ I am a Results-oriented Software Developer with 3+ years of experience deliverin
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html&theme=dark&perline=15" />     
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css&theme=dark&perline=15" />
 <img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15" />
-<img align="left" alt="JQuery" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=jquery&theme=dark&perline=15" />
 <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=15" />       
 <img align="left" alt="Visual Studio" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=15" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github&theme=dark&perline=15" />
