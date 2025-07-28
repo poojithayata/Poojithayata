@@ -29,6 +29,6 @@ I am a Results-oriented Software Developer with 3+ years of experience deliverin
 # 🤝🏻 Connect with Me 
 <p>
 <a href="https://www.linkedin.com/in/poojitha-y-b6267a2b1/" target="_blank"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/LinkedIn-Poojitha%20Yata%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto: poojithayata.tech@gmail.com" target="_blank"><img alt="Email" target="_blank" src="https://img.shields.io/badge/Email-Vijeth's Mail-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto: poojithayata.tech@gmail.com" target="_blank"><img alt="Email" target="_blank" src="https://img.shields.io/badge/Email-Poojitha's Mail-blue?style=flat-square&logo=gmail"></a>
 </p>
   
