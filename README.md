@@ -1,8 +1,8 @@
 # Poojitha Yata 👋
 
- `Code Alchemist (Data & Dev engineer)` 
+ `Code Alchemist (AI/ML Engineer)` 
 
-I am a Results-oriented Software Developer with 3+ years of experience delivering high-performance, scalable applications in finance and insurance domains. Proficient in .NET (C#, ASP.NET Core, MVC, Web API), Node.js (Nest.js), React.js, Angular, SQL Server, Oracle, and PostgreSQL. Skilled in designing microservices, integrating REST/SOAP APIs, and building secure, cloud-native systems on Azure and AWS. Experienced in CI/CD (Azure DevOps, GitHub, Terraform), data integration (SSIS, Datastage), and real-time systems using Kafka and gRPC. Adept in Agile, BDD, and TDD environments, with a strong focus on system performance, cloud deployment, and end-to-end software delivery.
+Highly experienced AI Engineer with 3+ years of expertise in Data and Machine Learning, specializing in developing and deploying advanced models using Python, TensorFlow, Keras, and scikit-learn. Proficient in data preprocessing, feature engineering, and model evaluation. Skilled in data visualization with Tableau and Power BI, and experienced in handling large datasets and implementing data pipelines. Proven ability to integrate AI solutions with AWS and Azure.
 
 ---
 # Languages and Tools
