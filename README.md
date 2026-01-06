@@ -1,8 +1,6 @@
 # Poojitha Yata 👋
 
- `Code Alchemist (AI/ML Engineer)` 
-
-Highly experienced AI Engineer with 3+ years of expertise in Data and Machine Learning, specializing in developing and deploying advanced models using Python, TensorFlow, Keras, and scikit-learn. Proficient in data preprocessing, feature engineering, and model evaluation. Skilled in data visualization with Tableau and Power BI, and experienced in handling large datasets and implementing data pipelines. Proven ability to integrate AI solutions with AWS and Azure.
+Data Analyst with 4 years of experience in healthcare and financial services, specializing in SQL, Python, ETL pipelines, data quality, predictive modeling, and BI dashboards. Strong background in claims analytics, risk adjustment, HEDIS, RAF, AML, credit risk, and regulatory compliance (HIPAA, CMS, NCQA, Basel, IFRS). Skilled in transforming complex datasets into actionable insights to improve clinical outcomes, operational efficiency, and risk mitigation. Adept at delivering analytics solutions that drive better decision-making.
 
 ---
 # Languages and Tools
